@@ -148,3 +148,17 @@ Los cambios enviados a la rama principal pueden generar nuevos despliegues autom
 Proyecto académico desarrollado como parte de la Actividad 4 de Programación Web de TECLAB.
 
 **Estado:** Publicado en producción y con pruebas funcionales verificadas.
+
+## Verificación final
+
+Se realizaron las siguientes comprobaciones antes de la publicación:
+
+- **Pruebas automatizadas:** ejecutadas correctamente. 11 pruebas aprobadas en 4 archivos de test.
+- **Build productivo:** generado correctamente mediante `npm run build`.
+- **Preview:** ejecutado y comprobado mediante `npm run preview`.
+- **Despliegue:** realizado correctamente en Vercel.
+- **Aplicación publicada:** https://pulso-abierto-chi.vercel.app/
+- **Repositorio:** https://github.com/Riquelme-Maximiliano/pulso-abierto
+- **Fecha de verificación:** 21/11/2026.
+
+La aplicación fue comprobada en producción, verificando la consulta de precios, la navegación, los favoritos, su persistencia y el funcionamiento de la interfaz.
